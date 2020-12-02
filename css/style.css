@@ -2,6 +2,10 @@
   color: SlateBlue;
 }
 
+p {
+  margin: 25px 25px 30px 25px;
+}
+
 table {
   border: 5px solid SlateBlue;
   width: 100%
