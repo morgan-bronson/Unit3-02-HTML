@@ -1,5 +1,5 @@
 .paragraph {
-  color: SlateBlue;
+  color: slateblue;
 }
 
 p {
@@ -11,6 +11,6 @@ img {
 }
 
 table {
-  border: 5px solid SlateBlue;
+  border: 5px solid slateblue;
   width: 100%
 }
