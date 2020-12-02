@@ -6,6 +6,10 @@ p {
   margin: 25px 25px 30px 25px;
 }
 
+img {
+  padding: 75px 75px 75px 75px;
+}
+
 table {
   border: 5px solid SlateBlue;
   width: 100%
